@@ -26,7 +26,7 @@ The project's requirements weren't clear enough, so here are 3 versions each sat
 
 
 ### Authors 🖊️
-**Mariam Atef Hassan  May/2022**
+**Mariam Atef Hassan  -  May/2022**
 
 <hr>
 
