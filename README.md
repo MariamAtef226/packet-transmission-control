@@ -31,4 +31,4 @@ The project's requirements weren't clear enough, so here are 3 versions each sat
 
 <hr>
 
-#### Enjoy it 😉
+#### Enjoy 😉
